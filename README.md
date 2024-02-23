@@ -1,6 +1,5 @@
 # javascript-Learning
 Welcome to my JavaScript Learning repository!
-
 ## Key JavaScript Concepts Explored:
 
 1. **Variables and Data Types:**
